@@ -1,0 +1,7 @@
+[
+  { "timestamp": "2025-04-13T12:45:10", "event": "login_fail", "user": "admin" },
+  { "timestamp": "2025-04-13T12:45:12", "event": "login_fail", "user": "admin" },
+  { "timestamp": "2025-04-13T12:45:15", "event": "login_fail", "user": "admin" },
+  { "timestamp": "2025-04-13T12:45:20", "event": "login_success", "user": "admin" },
+  { "timestamp": "2025-04-13T13:00:00", "event": "file_access", "user": "admin", "file": "/sensitive/finance.xlsx" }
+]
